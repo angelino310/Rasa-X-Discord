@@ -1,4 +1,4 @@
-# Rasa-X-Discord
+# Rasa-Bot-Discord
 Discord Bot for Rasa
 
 This is a simple Discord Bot that converts received messages on Discord into requests to Rasa Bot. 
